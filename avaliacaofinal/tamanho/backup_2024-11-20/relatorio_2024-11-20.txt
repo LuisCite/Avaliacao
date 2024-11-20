@@ -1,0 +1,8 @@
+Informações sobre o ficheiro:
+------------------------
+Nome do ficheiro selecionado: medio.txt
+Tamanho do ficheiro: 7498 bytes
+Número de Linhas: 20
+Número de Palavras: 1100
+Previsão do tempo: Vila do Conde, Portugal: ⛅️  +14°C
+
